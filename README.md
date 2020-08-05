@@ -153,3 +153,12 @@ Source: https://github.com/jonsuh/hamburgers
 Unique ID function from the Twenty Twenty theme, Copyright 2019-2020 WordPress.org
 License: GPLv2 or later - https://www.gnu.org/licenses/gpl-2.0.html
 Source: https://wordpress.org/themes/twentytwenty/
+
+  ### Saikat Roy
+
+> Email: njmsaikat@gmail.com
+
+> Personal Portfolio: https://njmsaikat.github.io/saikat/
+
+> Linked In Profile: https://www.linkedin.com/in/njmsaikat/
+
